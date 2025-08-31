@@ -11,6 +11,7 @@ This folder contains profiles of community contributors.
 ```markdown
 ---
 name: Achyut Neupane
+username: achyut
 linkedin: achyutneupane
 github: achyutkneupane
 x: achyutkneupane
