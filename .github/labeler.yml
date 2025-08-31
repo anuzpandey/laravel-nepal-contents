@@ -1,0 +1,31 @@
+Author:
+  - changed-files:
+      - any-glob-to-any-file: 'authors/*'
+
+Company:
+  - changed-files:
+      - any-glob-to-any-file: 'companies/*'
+
+Package:
+  - changed-files:
+      - any-glob-to-any-file: 'packages/*'
+
+Post:
+  - changed-files:
+      - any-glob-to-any-file: 'posts/*'
+
+Project:
+  - changed-files:
+      - any-glob-to-any-file: 'projects/*'
+
+Tips:
+  - changed-files:
+      - any-glob-to-any-file: 'tips/*'
+
+Video:
+  - changed-files:
+      - any-glob-to-any-file: 'videos/*'
+
+Image:
+  - changed-files:
+      - any-glob-to-any-file: 'images/**'
