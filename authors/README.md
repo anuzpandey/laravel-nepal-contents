@@ -11,6 +11,9 @@ This folder contains profiles of community contributors.
 - Use a solid square image (PNG or JPG).
 - Recommended size: 1000x1000px.
 - Place logos in the `/images/profile` folder. The file name must be same as the `username` field.
+- In case you didn't upload a profile picture, the system will use [Gravatar](https://en.gravatar.com/) based on your email.
+
+> Note: `email` field is optional and will be public.  
 
 ## Example
 
@@ -18,6 +21,7 @@ This folder contains profiles of community contributors.
 ---
 name: Achyut Neupane
 username: achyut
+email: achyut@laravelnepal.com
 linkedin: achyutneupane
 github: achyutkneupane
 x: achyutkneupane
