@@ -1,6 +1,7 @@
 ---
 name: Achyut Neupane
 username: achyut
+email: achyut@laravelnepal.com
 linkedin: achyutneupane
 github: achyutkneupane
 x: achyutkneupane
