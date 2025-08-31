@@ -24,9 +24,10 @@ All community-contributed content lives here in Markdown files. The Laravel Nepa
 - [videos/](videos/README.md) → Tutorials, talks, or meetup recordings
 
 ## Contribution Guidelines
+- You must have a profile in `authors/` to contribute to other folders.
 - Keep content **relevant to Laravel & the Nepali community**.
 - Use proper **frontmatter** as shown in each folder’s `README.md`.
-- PRs should contain only one new/updated file per contribution if possible. (Exception for old authors)
+- PRs should contain only one new/updated file per contribution.
 - Be respectful and follow open-source etiquette.
 
 ## Join Us
