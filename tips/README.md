@@ -6,8 +6,11 @@ Short Laravel tips or snippets.
 - One file per tip → `slug.md`
 - Use Frontmatter for metadata.
 
-## Image guideline
+## Author guideline
+- Profile of the package author(s) should be in the `authors/` folder.
+- Use the `author` field to reference the author's `username` from the `authors/
 
+## Image guideline
 - Recommended size: 1200 x 630px (for social sharing)
 - Place images in the `/images/tips` folder. The file name must be same as the `slug` field.
 - If multiple images are needed for a tip, create a subfolder named after the slug and place images there.

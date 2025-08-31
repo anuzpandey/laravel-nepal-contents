@@ -6,6 +6,10 @@ Blog articles, tutorials, and long-form content.
 - One file per post → `slug.md`
 - Use Frontmatter for metadata.
 
+## Author guideline
+- Profile of the package author(s) should be in the `authors/` folder.
+- Use the `author` field to reference the author's `username` from the `authors/
+
 ## Images guideline
 
 - Recommended size: 1200 x 630px (for social sharing)
