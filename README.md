@@ -1,2 +1,3 @@
-# content
-Subtree for content management of LaravelNepal.
+# Laravel Nepal
+
+Subtree for content management.
