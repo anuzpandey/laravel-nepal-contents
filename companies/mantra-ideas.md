@@ -1,8 +1,10 @@
 ---
 name: Mantra Ideas
 slug: mantra-ideas
+email: info@mantraideas.com
 website: https://mantraideas.com
 city: Lalitpur
+linkedin: mantraideas
 tech_stack: ["Laravel", "React", "NextJs", "Tailwind CSS", "Filament","NodeJs"]
 ---
 
