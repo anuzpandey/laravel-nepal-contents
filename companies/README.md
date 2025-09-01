@@ -9,8 +9,11 @@ Profiles of companies in Nepal using Laravel.
 ## Logo guideline
 
 - Use a transparent PNG logo if possible.
-- Recommended size: 200x200px.
+- Recommended size: 400x400px.
 - Place logos in the `/images/logos` folder. The file name must be same as the `slug` field.
+- In case you didn't upload a logo, the system will use [Gravatar](https://en.gravatar.com/) based on your email.
+
+> Note: `email` field is optional and will be public.
 
 ## Example
 
@@ -19,7 +22,9 @@ Profiles of companies in Nepal using Laravel.
 name: Laravel Nepal
 slug: laravel-nepal
 website: https://laravelnepal.com
+email: achyut@laravelnepal.com
 city: Dharan
+linkedin: laravelnepal
 tech_stack: ["Laravel", "React", "Inertia", "Tailwind CSS", "Filament"]
 ---
 
