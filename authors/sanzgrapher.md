@@ -1,7 +1,7 @@
 ---
 name: Narayan Dhakal
 email: narayandhakal443@gmail.com
-username: narayandhakal09
+username: sanzgrapher
 linkedin: narayandhakal09
 github: sanzgrapher
 x: n/a
