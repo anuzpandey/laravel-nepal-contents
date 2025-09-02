@@ -4,7 +4,7 @@ email: narayandhakal443@gmail.com
 username: sanzgrapher
 linkedin: narayandhakal09
 github: sanzgrapher
-x: n/a
+x: 
 website: https://narayan-dhakal.com.np
 bio: Mid Laraver Developer
 ---
